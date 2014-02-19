@@ -1,0 +1,17 @@
+2013#ic_launcher#1. In which of the following levels of classification are the members most similar?#Order#Genius#Species#Phylum#1
+2013#icon#2. The diagram represents a#cell.#filament.#colony.#part of a living organism.#2
+2013#ic_launcher#3. Pyrenoid is present in the structure labelled.#IV.#III.#II.#I.#3
+2013#icon#4. Spirogyra is regarded as a multicellular plant because.#the cylindrical cells are linked end to end.#its cells are linked together by cytoplasmic strands.#its cells are large.#it is an algae containing a large vacuole.#4
+2013#ic_launcher#5. Which of the following pairs of structure in living organisms do not perform similar functions?#Lungs and spriracles#Root hairs and mammalian hairs#Feathers and scales#Contractile vacuole and kidneys#1
+2013#icon#6. which of the following sequences is the correct arrangement of tissues in the anatomy of a young dicotyledonous stem from the inside to the outside?#Pith, phloem, cambium, dzylem, parenchyma, collenchyma and epidermis#Xylem, phloem, cambium, cortex, endodermis, collenchyma and epidermis#Pithc, xylem, cambium, phloem, collenchyma, parenchyma and epidermis#Phloem, xylem, cambium, cortex, endodermis, collenchyma and epidermis#2
+2013#ic_launcher#7. An animal which possesses scales, nares and a backbone is likely to be a#toad#lizard#rat#bat#3
+2013#icon#8. The opening of the guard cells of the epidermis in plants is by the process of#osmosis.#diffusion#active transport#transpiration#4
+2013#ic_launcher#9. What happens to a plant if the shoot tip is out off and replaced by an agar block containing auxin? it will#stop growing.#grow rapidly.#continue to grow normally.#die completely.#1
+2013#icon#10. Anaerobic respiration results in the production of#more energy than aerobic respiration.#no energy.#an equal amount of energy to aerobic respiration.#less energy than aerobic respiration.#2
+2013#ic_launcher#11. Which of the following is not a skeletal tissue?#Plasma#Chitin#Cartilage#Bone#3
+2013#icon#12. Which of the following statements is not correct about the mammalian heart?#Oxygenated blood enters the left auricle from the pulmonary vein#The walls of the ventricle are thicker than those of the auricle#Blood passes from the right ventricle to the left auricle through the aorta#The tricuspid valve prevents the back flow of blood into the right auricle#4
+2013#ic_launcher#13. Which of the following organs are used for gaseous exchange in a mature toad?#Gills, lungs and eardrum#Lungs, mouth and eardrum#Mouth, skin and gills#Skin, lungs and mouth#1
+2013#icon#14. Which of the following structure is used for respiration in insects?#Lungs#Thorax#Cuticle#Spiracles#2
+2013#ic_launcher#15. Which of the following statements about the diaphragm of a mammal is not correct? It#seperates the thorax and the abdomen.#is a thick layer of muscle.#is made of epithelial cells.#ispart of the human respiratory apparatus.#3
+2013#icon#16. A substance present in the glomerular filtrate in the mammalian kidney is#glucose.#fibrinogen.#albumen.#blood platelets.#4
+2013#ic_launcher#17. In humans, excretion of hypertonic urine is associated with the#distal convoluted tuble.#Loob of Henle#Bowman's capsule#proximal convuluted tuble.#1
